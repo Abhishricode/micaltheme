@@ -288,6 +288,7 @@ nav ul li a:hover{
 }
 span{
     font-size: 20px;
+    margin-left:3px
 }
 .topicons:hover{
     color: #51fe44;
