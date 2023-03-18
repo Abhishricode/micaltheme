@@ -315,6 +315,7 @@ span{
 }
 .map img{
     width: 80%;
+    margin-bottom:20px;
 }
 .footersubscribe{
     width: 100%;
@@ -332,6 +333,7 @@ span{
 .inputend{
     width:70%;
     height: 50px;
+    margin-top: 1px;
 }
 .subscribe{
     width: 30%;
