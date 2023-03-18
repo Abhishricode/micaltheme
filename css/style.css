@@ -282,7 +282,7 @@ nav ul li a:hover{
     display: flex;
 }
 .topicons{
-    margin:  0px 5px 0px 40px;
+    margin: 0px 0px 0px 20px;
     padding-left: 80px;
     font-size: 30px !important;
 }
