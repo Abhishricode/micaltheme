@@ -353,7 +353,7 @@ span{
     justify-content: space-between;
 }
 .send{
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 25px;
     width: 140%;
     height: 53.5px;
     background-color: #fff;
